@@ -11,17 +11,6 @@
 - Rubio Padrón Alondra Milagros  
 - Amoles Sierra Gabriel  
 
-**Asesores**
-
-- Ing. Villafuerte Lucio Diego Angel  
-- Dr. Yañez Vargas Juan Israel  
-
-**Tutor**
-
-- Ing. Gallegos Galindo Juan Heriberto  
-
-**Fecha**
-
 *Santa Cruz de Juventino Rosas, Gto., México*  
 *16 de Febrero del 2025*
 
@@ -68,4 +57,5 @@ Se busca automatizar una silla de ruedas convencional, con el objetivo de reduci
 
 En SENNOVA (Sistema de Investigación, Desarrollo Tecnológico e Innovación) se presentó un proyecto titulado Sistema de control de una silla de ruedas eléctrica por medio de comandos de voz, el cual permite controlar una silla de ruedas eléctrica mediante comandos de voz, facilitando el desplazamiento de personas con discapacidad motriz. Además, se incluye una adaptación que permite accionar un control tipo joystick mediante servomotores conectados a la silla de ruedas, utilizando una placa Arduino.
 
-## Marco terórico
+
+
