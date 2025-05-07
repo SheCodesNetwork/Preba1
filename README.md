@@ -51,11 +51,13 @@ Diseño e implementación de un sistema de control para la movilización deuna s
 - Crear un plano para tener una idea más amplia sobre cómo acomodar las herramientas electrónicas para controlar la silla.
   
 **Estado del arte**
+
 En el año 2019 se presentó un proyecto llamado Chair Machine, el cual trata sobre una silla de ruedas inteligente. Esta contaba con una herramienta electrónica que permitía el control de la silla, con el objetivo de brindar una oportunidad de movilidad a personas con discapacidad.
 
 Se busca automatizar una silla de ruedas convencional, con el objetivo de reducir los costos de fabricación y mejorar el sistema de control eléctrico. Para ello, se planea incorporar una batería, dos motores, un joystick, un circuito de control y uno de potencia, creando así un mecanismo que asista al paciente y le permita cubrir sus necesidades de desplazamiento.
 
 En SENNOVA (Sistema de Investigación, Desarrollo Tecnológico e Innovación) se presentó un proyecto titulado Sistema de control de una silla de ruedas eléctrica por medio de comandos de voz, el cual permite controlar una silla de ruedas eléctrica mediante comandos de voz, facilitando el desplazamiento de personas con discapacidad motriz. Además, se incluye una adaptación que permite accionar un control tipo joystick mediante servomotores conectados a la silla de ruedas, utilizando una placa Arduino.
 
-
+>[!Para mas información consulta el siguiente enlace]
+>* [Proyecto completo Freedom on wheels](https://github.com/SheCodesNetwork/Preba1/blob/main/Proyecto%20integrador-Parcial%201%20(1).pdf)
 
